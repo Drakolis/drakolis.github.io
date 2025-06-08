@@ -14,7 +14,7 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. Whether 
 ## How I Work Best
 - Give me a wide problem space and trust — watch it turn into vision and architecture.
 - I love teams who care. About the mission, about each other, about why we're doing the work.
-- I bring a strong sense of creative ownership, but I collaborate deeply—no heroics, no ego.
+- I bring a strong sense of creative ownership, but I collaborate deeply — no heroics, no ego.
 - Balance is not optional. Burnout kills creativity. Healthy people build better systems.
 
 ## I’m Not For...
