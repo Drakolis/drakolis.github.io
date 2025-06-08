@@ -1,5 +1,11 @@
 # Work With Me
+## Who am I
+Hi, I am Mika. I am the Techinal Systems Architect and Product Chaos Stabilizer you have been looking for. With 10+ years across startups and scale-ups, I lead with depth, design for resilience, and coach people into their best. If you’re building something that doesn’t have a name yet, I’m the one who helps it take form.
+
 ## What I Do
+I help visionary teams turn ambiguity into architecture. Whether it's an undefined product, a chaotic system, or a team without direction, I step in where clarity is missing and build what's needed—code, systems, or mindsets.
+
+I build what others can’t yet see. I specialize in translating ambiguous vision into resilient systems, coaching high-performing teams, and stabilizing chaos at critical moments. Whether in early-stage startups or scale-ups, I act as a systems architect, strategic translator, and builder of the previously unbuildable.
 
 I solve high-level, complex challenges that haven’t been done before—across systems, products, and strategy. I’m at my best when I’m shaping something new, not optimizing what already exists.
 
@@ -15,10 +21,12 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. Whether 
 - Environments that fear change more than mediocrity.
 - Roles where “innovation” means copying last decade’s ideas.
 - Teams that care more about “clocking in” than solving meaningful challenges.
+- Maintaining things with low returns. Let's focus on features that will are bringing results.
 
 ## My Principles
-- Human-first design, always. Tech, systems, work culture—it all starts with people.
-- Creativity needs boundaries. You can’t sustain great work if you’re always on fire.
+- Human-first design, always. Tech, systems, work culture — it all starts with people.
+- Creativity needs freedom. You can’t sustain great work if you’re always on fire.
+- Technical excellence, for real. Ensure quality starts from design to implementation and up to active use.
 - Impact > Optics. Button colours are not a strategy.
 - Play is serious. The best ideas come from exploration, not just execution.
 
