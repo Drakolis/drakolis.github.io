@@ -6,6 +6,8 @@ Hi, I am Mika — the Techinal Systems Architect and Product Chaos Stabilizer yo
 I help visionary teams turn ambiguity into architecture. Whether it’s an undefined product, a chaotic system, or a team without direction, I step in where clarity is missing and build what’s needed — code, systems, or mindsets.
 
 I build what others can’t yet see. I specialize in translating vision into resilient systems, coaching high-performing teams, and stabilizing chaos at critical moments. Whether at seed-stage or scale-up, I show up as a systems architect, strategic translator, and builder of the previously unbuildable.
+(this paragraph feels very buzzwordy, I'd change some of the phrases to read more natural)
+
 
 I think in patterns, not tasks. I zoom out. I connect dots others miss. My focus is always the same: build something meaningful, elegant, and scalable.
 
@@ -19,14 +21,16 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. My focus
 - Environments that fear change more than mediocrity.
 - Roles where “innovation” means copying last decade’s ideas.
 - Teams that care more about “clocking in” than solving meaningful challenges.
-- Maintaining things with low returns. Let's focus on features that will are bringing results.
+- Maintaining things with low returns. Let's focus on features that will bring results.
 
 ## My Principles
 - Human-first design, always. Tech, systems, work culture — it all starts with people.
 - Creativity needs freedom. You can’t sustain great work if you’re always on fire.
 - Technical excellence, for real. Ensure quality starts from design to implementation and up to active use.
 - Impact > Optics. Button colours are not a strategy.
+  - Describe better what does 'optics' mean here. 'Button colours' reference feels a bit too personal, maybe change to something like "let's focus on what actually brings value" or something similar.
 - Play is serious. The best ideas come from exploration, not just execution.
+  - maybe change 'Play' with 'Experimentation' here?
 
 ## What I’m Looking For
 - Big, unsolved, system-level problems. Not in theory — in practice.
@@ -36,4 +40,4 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. My focus
 ## Want More Details?
 Here’s my classic CV (PDF) — if you’re into timelines, titles, and keywords.
 
-But if you’re building the future? [Let’s talk about what doesn’t exist yet.](https://gravatar.com/drakolis)
+But if you’re building the future? [Let’s talk about how we can build it together.](https://gravatar.com/drakolis)
