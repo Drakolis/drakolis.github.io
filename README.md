@@ -1,11 +1,11 @@
 # Work With Me
 ## Who am I
-Hi, I am Mika — the Techinal Systems Architect and Product Chaos Stabilizer you have been looking for. With 10+ years across startups and scale-ups, I lead with depth, design for resilience, and coach people into their best. If you’re building something that doesn’t have a name yet, I’m the one who helps it take form.
+Hi, I am Mika — the Technical Systems Architect and Product Chaos Stabilizer you have been looking for. With 10+ years across startups and scale-ups, I lead with depth, design for resilience, and coach people into their best. If you’re building something that doesn’t have a name yet, I’m the one who helps it take form.
 
 ## What I Do
 I help visionary teams turn ambiguity into architecture. Whether it’s an undefined product, a chaotic system, or a team without direction, I step in where clarity is missing and build what’s needed — code, systems, or mindsets.
 
-I build what others can’t yet see. I specialize in translating vision into resilient systems, coaching high-performing teams, and stabilizing chaos at critical moments. Whether at seed-stage or scale-up, I show up as a systems architect, strategic translator, and builder of the previously unbuildable.
+I build what others can’t yet see. I specialize in bringing vision into resilient systems. I am also good at coaching high-performing teams, and stabilizing chaos at critical moments. Whether the stage of the company is, I show up as a systems architect, strategic translator, and builder of the previously unbuildable.
 
 I think in patterns, not tasks. I zoom out. I connect dots others miss. My focus is always the same: build something meaningful, elegant, and scalable.
 
@@ -25,7 +25,7 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. My focus
 - Human-first design, always. Tech, systems, work culture — it all starts with people.
 - Creativity needs freedom. You can’t sustain great work if you’re always on fire.
 - Technical excellence, for real. Ensure quality starts from design to implementation and up to active use.
-- Impact > Optics. Button colours are not a strategy.
+- Impact of the work matters. Changing button colours is not a strategy.
 - Play is serious. The best ideas come from exploration, not just execution.
 
 ## What I’m Looking For
