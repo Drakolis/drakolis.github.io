@@ -3,7 +3,7 @@
 Hi, I am Mika. I am the Techinal Systems Architect and Product Chaos Stabilizer you have been looking for. With 10+ years across startups and scale-ups, I lead with depth, design for resilience, and coach people into their best. If you’re building something that doesn’t have a name yet, I’m the one who helps it take form.
 
 ## What I Do
-I help visionary teams turn ambiguity into architecture. Whether it's an undefined product, a chaotic system, or a team without direction, I step in where clarity is missing and build what's needed—code, systems, or mindsets.
+I help visionary teams turn ambiguity into architecture. Whether it's an undefined product, a chaotic system, or a team without direction, I step in where clarity is missing and build what's needed — code, systems, or mindsets.
 
 I build what others can’t yet see. I specialize in translating ambiguous vision into resilient systems, coaching high-performing teams, and stabilizing chaos at critical moments. Whether in early-stage startups or scale-ups, I act as a systems architect, strategic translator, and builder of the previously unbuildable.
 
