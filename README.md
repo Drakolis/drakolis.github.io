@@ -35,4 +35,5 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. My focus
 
 ## Want More Details?
 Here’s my classic CV (PDF) — if you’re into timelines, titles, and keywords.
-But if you’re building the future? Let’s talk about what doesn’t exist yet.
+
+But if you’re building the future? [Let’s talk about what doesn’t exist yet.](https://gravatar.com/drakolis)
