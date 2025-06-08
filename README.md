@@ -7,12 +7,12 @@ I help visionary teams turn ambiguity into architecture. Whether it's an undefin
 
 I build what others can’t yet see. I specialize in translating ambiguous vision into resilient systems, coaching high-performing teams, and stabilizing chaos at critical moments. Whether in early-stage startups or scale-ups, I act as a systems architect, strategic translator, and builder of the previously unbuildable.
 
-I solve high-level, complex challenges that haven’t been done before—across systems, products, and strategy. I’m at my best when I’m shaping something new, not optimizing what already exists.
+I solve high-level, complex challenges that haven’t been done before — across systems, products, and strategy. I’m at my best when I’m shaping something new, not optimizing what already exists.
 
 I think in patterns, not tasks. I zoom out. I connect dots others miss. Whether I’m leading a team, prototyping a system, or creating new user experiences, my focus is always the same: build something meaningful, elegant, and scalable.
 
 ## How I Work Best
-- Give me a wide problem space and trust—watch it turn into vision and architecture.
+- Give me a wide problem space and trust — watch it turn into vision and architecture.
 - I love teams who care. About the mission, about each other, about why we're doing the work.
 - I bring a strong sense of creative ownership, but I collaborate deeply—no heroics, no ego.
 - Balance is not optional. Burnout kills creativity. Healthy people build better systems.
@@ -31,6 +31,6 @@ I think in patterns, not tasks. I zoom out. I connect dots others miss. Whether 
 - Play is serious. The best ideas come from exploration, not just execution.
 
 ## What I’m Looking For
-- Big, unsolved, system level problems. Not in theory—in practice.
+- Big, unsolved, system level problems. Not in theory — in practice.
 - Teams who want to build better, not just more.
 - Leaders who get that doing something truly new means trust, space, and intention.
